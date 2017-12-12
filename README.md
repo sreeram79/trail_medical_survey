@@ -2,14 +2,19 @@
 
 # Introduction:-
 This is a short project and has done with minimal prototype for the given requirement. 
+
 	a) CSVFileReader class in csv_file_process.py:
 			CSVFileReader class helps in reading the given sample file and extract the data into the dictionary.
+			
 	b) ProbabilityRecord Class
 			ProbabilityRecord class helps in holding and computing the cumulative values for the given questionaries.
+			
 	c) BooleanFactor Class
 			BooleanFactor class helps to work on the input criteria from the survey['T','F','U']
+			
 	d) RawInputCommand Class
 			RawInputCommand class helps to loop on the questions and gather the inputs from the users and displays the survey results. 
+			
 
 What can you expect:
 	Hooray !!! Quite happy at least the basic things work ;-)
