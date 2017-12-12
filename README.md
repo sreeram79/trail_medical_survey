@@ -76,20 +76,34 @@ What could have been better:
 # Configure:
 untar the given file you should see the below files.
 	prototype_test
+	
 		----> main.py
+		
 		----> testsuite.py
+		
 		----> Readme.txt
+		
 		----> trialsurvey.csv
+		
 		----> trialsurvey  
+		
 			  ------> __init__.py
+			  
 			  ------> prob_trail.py
+			  
 			  ------> csv_file_process.py
+			  
 			  ------> ra_input.py
+			  
 			 -------> commondef.py
+			 
 			 -------> metric_stats.py
+			 
 
 # Run:
+
 #	python main.py  ---> to run the simple survey
+
 #	python testsuite.py  --> to run the simple test
 
 
